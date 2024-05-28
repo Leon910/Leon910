@@ -5,7 +5,7 @@ I am eager to learn Web-Development and immerse into the coding world 🌎
 
 My current **activities**:
 
-1. neuefische WebDev-Bootcamp 💻 🌊 🐡
+1. neuefische webDevBootcamp 💻 🌊 🐡
 2. learn Farsi 🇮🇷
 3. improve Spanish 🇪🇸
 4. workout with bodyweight 🏋️
