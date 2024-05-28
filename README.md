@@ -1,13 +1,14 @@
-# Hi folks!
-## You are about to enter y first Readme-File. Welcome to you!
+# Hi folks! 🙌
+## You made it up here;) You are about to enter my Readme-File. Welcome to y´all! 
 
 I am eager to learn Web-Development and immerse into the coding world 🌎
 
 My current **activities**:
 
-1. learn Persian 🇮🇷
-2. improve Spanish 🇪🇸
-3. work-out with bodyweight 🏋️
+1. neuefische WebDev-Bootcamp 💻 🌊 🐡
+2. learn Farsi 🇮🇷
+3. improve Spanish 🇪🇸
+4. workout with bodyweight 🏋️
 
 
 ![codingWorld](https://github.com/Leon910/Leon910/assets/58033662/f9d08834-5039-4011-84ae-ab11f5c1e759)
