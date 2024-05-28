@@ -1,5 +1,5 @@
 # Hi folks!
-## This is Leons first Readme-File. Welcome to you all!
+## You are about to enter y first Readme-File. Welcome to you!
 
 I am eager to learn Web-Development and immerse into the coding world 🌎
 
