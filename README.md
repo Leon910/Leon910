@@ -3,12 +3,15 @@
 
 I am eager to learn Web-Development and immerse into the coding world 🌎
 
-My current **activities**:
+<details>
+<summary>My current activities -> open here 🔓</summary>
 
 1. neuefische webDevBootcamp 💻 🌊 🐡
 2. learn Farsi 🇮🇷
 3. improve Spanish 🇪🇸
 4. workout with bodyweight 🏋️
+
+</details>
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Leon910/Leon910/assets/58033662/f9d08834-5039-4011-84ae-ab11f5c1e759">
