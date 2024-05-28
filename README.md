@@ -7,9 +7,9 @@ I am eager to learn Web-Development and immerse into the coding world 🌎
 
 My current **activities**:
 
-1. learn Persian
-2. improve Spanish
-3. work-out with bodyweight
+1. learn Persian 🇮🇷
+2. improve Spanish 🇪🇸
+3. work-out with bodyweight 🏋️
 
 
 
