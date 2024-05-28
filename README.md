@@ -3,13 +3,15 @@
 
 I am eager to learn Web-Development and immerse into the coding world 🌎
 
-![EM-Pokal und Leon](https://github.com/Leon910/Leon910/assets/58033662/8b30f7b0-25c5-4200-9f0a-54f3ad203916)
-
 My current **activities**:
 
 1. learn Persian 🇮🇷
 2. improve Spanish 🇪🇸
 3. work-out with bodyweight 🏋️
+
+
+![codingWorld](https://github.com/Leon910/Leon910/assets/58033662/f9d08834-5039-4011-84ae-ab11f5c1e759)
+
 
 
 
