@@ -21,6 +21,13 @@ I am eager to learn Web-Development and immerse into the coding world 🌎
 
 > [!IMPORTANT]
 > This image was brought to life with the helping hand of Microsoft Copilot. Oh, and this attribution text? Crafted with the subtle touch of ChatGPT
+>
+> Tech Stack:
+HTML5
+CSS3
+JavaScript
+React
+Next JS
 
 
 
