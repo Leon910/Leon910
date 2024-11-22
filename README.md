@@ -13,6 +13,15 @@ I am eager to learn Web-Development and immerse into the coding world 🌎
 
 </details>
 
+## Tech Stack
+
+HTML5
+CSS3
+JavaScript
+React
+Next.js
+Node.js
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Leon910/Leon910/assets/58033662/f9d08834-5039-4011-84ae-ab11f5c1e759">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Leon910/Leon910/assets/58033662/f9d08834-5039-4011-84ae-ab11f5c1e759">
@@ -21,13 +30,6 @@ I am eager to learn Web-Development and immerse into the coding world 🌎
 
 > [!IMPORTANT]
 > This image was brought to life with the helping hand of Microsoft Copilot. Oh, and this attribution text? Crafted with the subtle touch of ChatGPT
->
-> Tech Stack:
-HTML5
-CSS3
-JavaScript
-React
-Next JS
 
 
 
